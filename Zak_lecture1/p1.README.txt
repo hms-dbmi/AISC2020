@@ -1,0 +1,4 @@
+The attached data files pertain to a study of autism [1].
+gene expression: p1.expression.csv
+phenotypes: p1.pheno.csv
+For p1.expression.csv, probe IDs of Affymetrix Gene 1.0 ST (GeneST) array are used instead of U133 IDs.
